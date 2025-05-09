@@ -1,6 +1,4 @@
-/*
-
-SQL-Bigquery görev-1
+-- SQL-Bigquery görev-1 (https://console.cloud.google.com/bigquery?sq=996353197838:242ab6b6a2e04cf8876386770b217d90)
 
 
 SELECT 
@@ -24,9 +22,9 @@ FROM `bigquery-public-data.ga4_obfuscated_sample_ecommerce.events_*` as e
         'purchase')
     and _table_suffix between '20210101' and '20211231'
     
-***********************************************************************************************
+-- ***********************************************************************************************
 
-SQL-Bigquery görev-2
+-- SQL-Bigquery görev-2 (https://console.cloud.google.com/bigquery?sq=996353197838:00eeab56ff7845f594267fb01a53a534)
 
 with new_table as (
   SELECT 
@@ -53,4 +51,3 @@ FROM `bigquery-public-data.ga4_obfuscated_sample_ecommerce.events_*` as e
   FROM new_table
 
 
-*/
