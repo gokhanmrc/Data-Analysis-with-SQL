@@ -1,6 +1,6 @@
 
 
--- SQL-Bigquery görev-3
+-- SQL-Bigquery görev-3 (https://console.cloud.google.com/bigquery?sq=996353197838:744d3d40cf6a406c9acb117c47d86b4b)
  
 with session_data as (
   SELECT
@@ -41,7 +41,7 @@ order by total_purchases desc;
 
 -- ***********************************************************************************************
 
--- SQL-Bigquery görev-4
+-- SQL-Bigquery görev-4 (https://console.cloud.google.com/bigquery?sq=996353197838:6a1b006498c74a42abc422ff72b825fc)
 
 with session_data as (
   SELECT
