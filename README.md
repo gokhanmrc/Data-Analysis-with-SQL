@@ -30,7 +30,7 @@ Each file is prefixed by a course/session number:
 - `CS2_Temel_SQL.sql` & `CS2_Bonus_Temel_SQL.sql`: Basic SQL examples
 - `CS3_ileri_SQL.sql`: Intermediate SQL concepts
 - `CS4_ileri_SQL.sql` & `CS4_Bonus_ileri_SQL.sql`: Advanced SQL techniques
-- `CS5_Looker_Studio.png`: Example dashboard screenshot
+- `CS5_Looker_Studio.png`: [Example dashboard screenshot](https://lookerstudio.google.com/u/0/reporting/0bf90a60-1c7e-42e5-a495-9595ba449e2e/page/JqmrE)
 - `CS6_SQL_String_fonksiyonlari.sql`: String functions
 - `CS7_SQL_Pencere_fonksiyonlari.sql`: Window functions
 - `CS8_SQL_Bigquery.sql` & `CS9_SQL_Bigquery.sql`: Google BigQuery examples
