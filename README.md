@@ -33,7 +33,7 @@ Each file is prefixed by a course/session number:
 - `CS5_Looker_Studio.png`: Example dashboard screenshot
 - `CS6_SQL_String_fonksiyonlari.sql`: String functions
 - `CS7_SQL_Pencere_fonksiyonlari.sql`: Window functions
-- `CS8_&_CS9_SQL_bigquery.sql`: Google BigQuery examples
+- `CS8_SQL_Bigquery.sql` & `CS9_SQL_Bigquery.sql`: Google BigQuery examples
 
 ## Author
 
