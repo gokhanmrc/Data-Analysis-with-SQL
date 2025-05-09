@@ -1,32 +1,45 @@
-# PostgreSQL Learning Repository
+# SQL Learning Repository
 
-This repository contains my personal notes, queries, and exercises as I learn and practice PostgreSQL.  
-It includes SQL scripts covering fundamental concepts such as:
+This repository contains a collection of hands-on exercises, personal notes, and SQL queries I developed while learning and practicing SQL concepts using **PostgreSQL**, **BigQuery**, and **Looker Studio**.
 
-- Database creation and schema design
-- Basic and advanced SQL queries
-- Joins, subqueries, and window functions
-- Indexing and performance tuning
-- Real-world data analysis examples
+The contents aim to improve my skills in database querying, reporting, and data analysis. It includes SQL scripts and visual analysis examples categorized by topic.
 
-## Folder Structure (to be updated)
+## Topics Covered
 
-- `01_Basics/` — Introductory SQL commands and table creation
-- `02_Intermediate/` — Joins, aggregations, and filtering
-- `03_Projects/` — Small analysis projects using sample databases
-- `Notes/` — Markdown files with summarized concepts and tips
+- PostgreSQL fundamentals
+  - Database creation and schema design
+  - Basic SQL queries (SELECT, WHERE, GROUP BY, etc.)
+  - Joins and subqueries
+  - Advanced SQL (Window functions, CTEs, etc.)
 
-## Tools
+- BigQuery exercises
+  - Working with public datasets
+  - Query optimization
+  - Aggregations and data transformations
 
-- PostgreSQL
-- pgAdmin (or DBeaver)
-- Sample datasets (e.g., DVD Rental, Titanic, etc.)
+- Looker Studio
+  - Basic dashboard design
+  - Data connection with BigQuery
+  - Visualizing SQL query results
 
-## Goal
+## Folder and File Structure
 
-To build a strong foundation in PostgreSQL for data analysis, reporting, and backend database management.
+Each file is prefixed by a course/session number:
+
+- `CS1_SQL_Giris.sql`: Introduction to SQL
+- `CS2_Temel_SQL.sql` & `CS2_Bonus_Temel_SQL.sql`: Basic SQL examples
+- `CS3_ileri_SQL.sql`: Intermediate SQL concepts
+- `CS4_ileri_SQL.sql` & `CS4_Bonus_ileri_SQL.sql`: Advanced SQL techniques
+- `CS5_Looker_Studio.png`: Example dashboard screenshot
+- `CS6_SQL_String_fonksiyonlari.sql`: String functions
+- `CS7_SQL_Pencere_fonksiyonlari.sql`: Window functions
+- `CS8_&_CS9_SQL_bigquery.sql`: Google BigQuery examples
+
+## Author
+
+**Gökhan Meriç**  
+[LinkedIn Profile](https://www.linkedin.com/in/gokhanmrc)
 
 ---
 
-📌 *This README will be updated as I add more files and organize the content.*
-
+Feel free to use this repository as a reference or learning resource.
